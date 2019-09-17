@@ -1,2 +1,2 @@
-understand c init
-sajklajsjal;f
+# ch01
+初识C语言
