@@ -110,11 +110,11 @@ void set_idx(int *v, int n) {
         printf("v[%d]=%d\n", i, v[i]);
     }
 }
-void ary_set(int &a[], int 2,int 99) {
+void ary_set(int v[], int n,int val) {
     int i;
 
-    for (i = 0; i < 2; i++) {
-        a[i] = 99;
+    for (i = 0; i < n; i++) {
+        v[i] = val;
     }
 }
 
